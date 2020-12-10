@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=333320e3_002De4dd_002D4a66_002Dbc52_002D46d98457a333/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldExpect401WhenLoginWithInvalidCredentials" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::CC31D8C6-6B10-4F38-8199-D67CD3E676BB::.NETCoreApp,Version=v3.1::JwtAuthDemo.IntegrationTests.AccountControllerTests.ShouldExpect401WhenLoginWithInvalidCredentials&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::CC31D8C6-6B10-4F38-8199-D67CD3E676BB::.NETCoreApp,Version=v3.1::JwtAuthDemo.IntegrationTests.AccountControllerTests.ShouldReturnCorrectResponseForSuccessLogin&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4bb2ff13_002D8a0d_002D4a56_002D8024_002D90486f441ce0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldExpect401WhenLoginWithInvalidCredentials #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::CC31D8C6-6B10-4F38-8199-D67CD3E676BB::.NETCoreApp,Version=v3.1::JwtAuthDemo.IntegrationTests.AccountControllerTests.ShouldExpect401WhenLoginWithInvalidCredentials&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8f2dfa93_002Dc8ef_002D4d7e_002Dbf6e_002D6cce1e4ed6d9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldExpect401WhenLoginWithInvalidCredentials #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::CC31D8C6-6B10-4F38-8199-D67CD3E676BB::.NETCoreApp,Version=v3.1::JwtAuthDemo.IntegrationTests.AccountControllerTests.ShouldExpect401WhenLoginWithInvalidCredentials&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d8d0397b_002D4764_002D472c_002D9c7f_002D78874b65abbf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldExpect401WhenLoginWithInvalidCredentials #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::CC31D8C6-6B10-4F38-8199-D67CD3E676BB::.NETCoreApp,Version=v3.1::JwtAuthDemo.IntegrationTests.AccountControllerTests.ShouldExpect401WhenLoginWithInvalidCredentials&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f2d6e592_002D75b5_002D4fa2_002D9fc4_002Dbf9d1f0a2873/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnCorrectResponseForSuccessLogin" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::CC31D8C6-6B10-4F38-8199-D67CD3E676BB::.NETCoreApp,Version=v3.1::JwtAuthDemo.IntegrationTests.AccountControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
